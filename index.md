@@ -1,6 +1,10 @@
 ## Single-View Facial Reflectance Inference With a Differentiable Renderer
+### Jiahao Geng<sub>1</sub>, Yanlin Weng<sub>1,2*</sub>, Lvdi Wang<sub>2</sub>, Kun Zhou<sub>1,2</sub>
+### <sub>1</sub>State Key Lab of CAD&CG, Zhejiang University, China;
+### <sub>2</sub> ZJU-FaceUnity Joint Lab of Intelligent Graphics, China.
 
 You can use the [editor on GitHub](https://github.com/JiahaoGeng/SVFRI.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
