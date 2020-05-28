@@ -1,7 +1,9 @@
 # <center> Single-View Facial Reflectance Inference With a Differentiable Renderer </center>
-<center> Jiahao Geng<sup>1</sup>, Yanlin Weng<sup>1,2*</sup>, Lvdi Wang<sup>2</sup>, Kun Zhou<sup>1,2</sup> </center>  
-<center> <sup>1</sup>State Key Lab of CAD&CG, Zhejiang University, China; </center>  
-<center> <sup>2</sup> ZJU-FaceUnity Joint Lab of Intelligent Graphics, China. </center>  
+-<center> Jiahao Geng<sup>1</sup>, Yanlin Weng<sup>1,2*</sup>, Lvdi Wang<sup>2</sup>, Kun Zhou<sup>1,2</sup> </center>  
+
+-<center> <sup>1</sup>State Key Lab of CAD&CG, Zhejiang University, China; </center>  
+
+-<center> <sup>2</sup> ZJU-FaceUnity Joint Lab of Intelligent Graphics, China. </center>  
 
 ### Abstruct
 
